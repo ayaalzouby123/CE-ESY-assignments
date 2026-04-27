@@ -88,10 +88,6 @@ Assignment1/
 ├── prog.c
 └── README.md
 
----
-
-## Author
-Aya – CE‑ESY26
 
 
 ## Author
